@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="chapter04:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/chapter04_jar</output-path>
+    <root id="root">
+      <element id="archive" name="chapter04.jar">
+        <element id="module-output" name="chapter04" />
+      </element>
+      <element id="library" level="project" name="com.boda (2)" />
+      <element id="library" level="project" name="com.boda" />
+    </root>
+  </artifact>
+</component>

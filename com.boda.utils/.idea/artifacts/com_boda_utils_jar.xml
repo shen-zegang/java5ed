@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="com.boda.utils:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/com_boda_utils_jar</output-path>
+    <root id="root">
+      <element id="archive" name="com.boda.utils.jar">
+        <element id="module-output" name="com.boda.utils" />
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: EmployeeDemo
+Class-Path: com.boda.jar com.boda.jar
+
